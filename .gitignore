@@ -1,0 +1,14 @@
+# Binarios y ejecutables
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# Archivos de depuracion
+*.pdb
+*.ilk
+
+# VS Code / IDEs
+.vscode/
+.idea/
